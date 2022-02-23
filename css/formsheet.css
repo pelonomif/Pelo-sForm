@@ -1,0 +1,26 @@
+h1{
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size:3em;
+}
+body{
+    display:table;
+}
+div{
+    display:table-row;
+}
+label{
+    padding-right:5%;
+    
+}
+label, input{
+    display:table-cell;
+    margin-bottom:5%;
+}
+p,label{
+    font-family: 1rem sans-serif;
+}
+input{
+    margin: 1rem;
+}
